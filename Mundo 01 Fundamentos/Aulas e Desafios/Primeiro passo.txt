@@ -1,0 +1,4 @@
+Acesse o site: http://www.python.org/
+Vá na seção de Downloads e escolha a opção compatível com seu sistema operacional.
+No meu caso: Windows.
+Clique na versão estável para baixá-la (*Download Windows x86-64 executable installer).
