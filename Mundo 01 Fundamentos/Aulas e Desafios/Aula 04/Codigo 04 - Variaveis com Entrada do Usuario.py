@@ -5,3 +5,4 @@ peso = input('Qual é o seu peso? ')
 
 # Comando de exibir as variáveis na tela
 print(nome, idade, peso)
+ 
