@@ -1,3 +1,10 @@
+#__________________PRIMEIROS_PASSOS_____________
+#Acesse o site: http://www.python.org/
+#Vá na seção de Downloads e escolha a opção compatível com seu sistema operacional.
+#No meu caso: Windows.
+#Clique na versão estável para baixá-la (*Download Windows x86-64 executable installer).
+
+
 #===========================100_EXECÍCIOS_EM_PYTHON_3=================
 #EXE001 - DEIXANDO TUDO PRONTO
 #Desafio001(aula004)
